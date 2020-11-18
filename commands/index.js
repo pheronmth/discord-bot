@@ -5,6 +5,7 @@
          ^                 ^
 */
 
+exports.evian = require('./evian');
 exports.ping = require('./ping');
 exports.jsp = require('./jsp');
 exports.echo = require('./echo');
